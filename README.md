@@ -1,6 +1,6 @@
-PYGAME - ZOMBIE INVADERS
-![image](https://github.com/user-attachments/assets/843068aa-b413-42cb-ae49-38d806a6d3be)
+![image](https://github.com/user-attachments/assets/1230971e-cee7-47b6-ba0e-c5311f3891fd)
 
+PYGAME - ZOMBIE INVADERS
 The game mechanics are simple in the first level, normal zombies will appear then the game gets harder when the player hits a certain score. 
 It will also automatically upgrade the ship and its bullet damage. 
 There are three zombies, these are normal , runner, and armor. 
