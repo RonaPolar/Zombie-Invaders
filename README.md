@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1230971e-cee7-47b6-ba0e-c5311f3891fd)
+![image](https://github.com/user-attachments/assets/8bb9088c-cbd0-47d8-84a3-a0cfa7058c50)
 
 PYGAME - ZOMBIE INVADERS
 The game mechanics are simple in the first level, normal zombies will appear then the game gets harder when the player hits a certain score. 
